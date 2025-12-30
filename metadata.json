@@ -1,0 +1,9 @@
+{
+  "name": "Image to Code",
+  "description": "Let Gemini transform your images into living, interactive p5.js sketches, coded on the fly.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
